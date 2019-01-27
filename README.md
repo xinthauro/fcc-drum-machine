@@ -5,6 +5,6 @@ You can see the project page in [freeCodeCamp](https://learn.freecodecamp.org/fr
 also you can view it in [codepen](https://codepen.io/xinthauro/full/MLKMGx).
 
 ## Screenshots
-![Screenshot 1](screenshots/drum_machine_01)
-![Screenshot 2](screenshots/drum_machine_02)
+![Screenshot 1](screenshots/drum_machine_01.jpg)
+![Screenshot 2](screenshots/drum_machine_02.jpg)
 
